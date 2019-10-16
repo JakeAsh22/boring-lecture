@@ -1,4 +1,15 @@
-.intro
+h2.intro
 {
-  
+  font-style: italic;
+}
+p.intro
+{
+  font-size: 150%;
+}
+img.intro
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
